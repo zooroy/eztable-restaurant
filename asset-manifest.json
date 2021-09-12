@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eztable-restaurant/static/css/main.74020daa.chunk.css",
+    "main.js": "/eztable-restaurant/static/js/main.a89c4fc3.chunk.js",
+    "main.js.map": "/eztable-restaurant/static/js/main.a89c4fc3.chunk.js.map",
+    "runtime-main.js": "/eztable-restaurant/static/js/runtime-main.a4f195b8.js",
+    "runtime-main.js.map": "/eztable-restaurant/static/js/runtime-main.a4f195b8.js.map",
+    "static/js/2.42d0f304.chunk.js": "/eztable-restaurant/static/js/2.42d0f304.chunk.js",
+    "static/js/2.42d0f304.chunk.js.map": "/eztable-restaurant/static/js/2.42d0f304.chunk.js.map",
+    "static/js/3.bdf08d0c.chunk.js": "/eztable-restaurant/static/js/3.bdf08d0c.chunk.js",
+    "static/js/3.bdf08d0c.chunk.js.map": "/eztable-restaurant/static/js/3.bdf08d0c.chunk.js.map",
+    "index.html": "/eztable-restaurant/index.html",
+    "static/css/main.74020daa.chunk.css.map": "/eztable-restaurant/static/css/main.74020daa.chunk.css.map",
+    "static/js/2.42d0f304.chunk.js.LICENSE.txt": "/eztable-restaurant/static/js/2.42d0f304.chunk.js.LICENSE.txt",
+    "static/media/stone_img.7b31d3ff.jpg": "/eztable-restaurant/static/media/stone_img.7b31d3ff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4f195b8.js",
+    "static/js/2.42d0f304.chunk.js",
+    "static/css/main.74020daa.chunk.css",
+    "static/js/main.a89c4fc3.chunk.js"
+  ]
+}
