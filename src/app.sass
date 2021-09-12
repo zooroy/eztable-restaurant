@@ -1,0 +1,59 @@
+.App
+  max-width: 1200px
+  margin: 0 auto
+  
+h1
+  text-align: center
+.wrap
+  display: flex
+  flex-wrap: wrap
+.item
+  width: calc(100% / 4 - 20px )
+  margin: 10px
+  box-sizing: border-box
+  border: 1px solid #888
+  border-radius: 3px
+  overflow: hidden
+  .item-img
+    height: 200px
+    object-fit: cover
+    width: 100%
+    font-size: 0
+  .item-content
+    padding: 10px 15px
+  .item-content-title
+    font-size: 1.2rem
+    font-weight: bold
+    margin-bottom: 2px
+  .item-content-subtitle
+    font-size: 0.9rem
+    margin-bottom: 5px
+  .item-content-bottom-wrap
+    display: flex
+    justify-content: space-between
+    align-items: flex-end
+  .item-content-follow
+    color: #888
+    font-size: 0.7rem
+  .item-content-btn
+    background: #854526
+    border: none
+    color: #fff
+    cursor: pointer
+    border-radius: 3px
+    padding: 5px 10px
+    &.btn-follow
+      background: #a5765f
+
+
+@media screen and (max-width: 1080px)
+  .item
+    width: calc(100% / 3 - 20px )
+
+@media screen and (max-width: 768px)
+  .item
+    width: calc(100% / 2 - 20px )
+
+@media screen and (max-width: 375px)
+  .item
+    width: calc(100% / 1 - 20px )
