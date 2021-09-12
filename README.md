@@ -2,7 +2,7 @@
 
 此UI建構於ReactJS框架下
 
-實作網站[demo](https://www.google.com.tw/)
+實作網站[demo](https://zooroy.github.io/eztable-restaurant/)
 
 ## 在本地端RUN
 
